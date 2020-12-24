@@ -15,3 +15,8 @@ p {
     font-weight: bold;
     color: indigo;
 }
+#cabecera {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 15px 0;
+}
